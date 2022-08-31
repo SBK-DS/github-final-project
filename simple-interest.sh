@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <SBK-DS>
+   # SBK-DS
 
    # Input:
    # p, principal amount
